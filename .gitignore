@@ -1,4 +1,12 @@
-### AL ###
+###Hi — I see the .gitignore file URL you provided. What would you like me to do with it?
+
+Options:
+- Show the file contents
+- Explain what each entry does and any problems
+- Suggest additions/removals for this repo type (e.g., Node, Python, etc.)
+- Update or create a new .gitignore (tell me what to include)
+
+Which would you like?AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
